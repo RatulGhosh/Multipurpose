@@ -7,5 +7,5 @@ A android app consisting of calculator,music player,buttons,layout etc.
 
 ### License
 
-Note that photoshare is distributed under the [MIT License](http://opensource.org/licenses)
+Note that Multipurpose is distributed under the [MIT License](http://opensource.org/licenses)
 
